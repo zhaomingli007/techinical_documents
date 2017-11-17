@@ -1,4 +1,4 @@
-## Functional programming principle in scala
+	## Imperative programming vs Functional programming
 
 1. Imperative programming
 	- Modify mutable variables
