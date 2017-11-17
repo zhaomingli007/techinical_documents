@@ -18,4 +18,4 @@
 	- physical planning
 	- code generation
 
-![SQL query planning](https://raw.githubusercontent.com/zhaomingli007/techinical_documents/master/resources/images/SQL query planning.png | width=100)
+![SQL query planning](https://raw.githubusercontent.com/zhaomingli007/techinical_documents/master/resources/images/SQL\ query\ planning.png | width=100)
