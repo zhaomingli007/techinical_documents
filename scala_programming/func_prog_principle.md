@@ -1,5 +1,6 @@
 	## Imperative programming vs Functional programming
 
+
 1. Imperative programming
 	- Modify mutable variables
 	- Use assignments
@@ -17,4 +18,6 @@
 	- Function are first-class citizens in FP
 		- Can be defined anywhere
 		- Can be parameters and return as results
-			
+3. Quasiquotes
+	- Quasiquotes from **reflection** package can be used to generate code in realtime.
+
